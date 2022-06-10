@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const PORT = 8000;
+const MongoClient = require("mongodb").MongoClient;
+const connectionString = 'mongodb+srv://ericqyhan@gmail.com:MrRobot4252@cluster0.kfs8mph.mongodb.net/?retryWrites=true&w=majority'
 
 app.use(cors());
 
