@@ -19,8 +19,7 @@ const food = {
     wrapper: "yeast and baking powder",
     traditional_Name: "叉燒包",
     simplified_name: "叉烧包",
-    image:
-      "https://en.wikipedia.org/wiki/Cha_siu_bao#/media/File:Char_siu_bao.jpg",
+    image: "https://rasamalaysia.com/images/char-siew-bao/charsiewbao_1.jpg",
   },
   "shrimp dumplings": {
     filling: "shrimp",
@@ -28,7 +27,7 @@ const food = {
     traditional_Name: "蝦餃",
     simplified_name: "虾饺",
     image:
-      "https://en.wikipedia.org/wiki/Har_gow#/media/File:Shrimp_dumplings.jpg",
+      "https://i.pinimg.com/originals/dc/49/0a/dc490ae82680210fb03e6658fc9f3904.jpg",
   },
   "egg tart": {
     filling: "custard, egg, and sugar",
@@ -36,7 +35,7 @@ const food = {
     traditional_Name: "蛋撻",
     simplified_name: "蛋挞",
     image:
-      "https://en.wikipedia.org/wiki/Egg_tart#/media/File:Egg_Tarts_with_Puff_Pastry.jpg",
+      "https://vignette.wikia.nocookie.net/dimsum/images/0/0b/Egg_custard_tart.jpg/revision/latest/scale-to-width-down/2000?cb=20150514195453",
   },
   rice: {
     filling: "white rice",
