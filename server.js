@@ -65,7 +65,7 @@ MongoClient.connect(connectionString)
         .toArray()
         .then((results) => {
           console.log(results);
-          response.json(results);
+          response.json(results[0]);
         })
         .catch((error) => console.error(error));
     });
